@@ -13,61 +13,61 @@
     "흔함": [
       {
         "id": "810e",
-        "name": "위습",
+        "name": "Wisp",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/wisp.webp",
         "stuffs": []
       },
       {
         "id": "300h",
-        "name": "루피",
+        "name": "Luffy",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/luffy.webp",
         "stuffs": []
       },
       {
         "id": "200h",
-        "name": "조로",
+        "name": "Zoro",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/zoro.webp",
         "stuffs": []
       },
       {
         "id": "100h",
-        "name": "나미",
+        "name": "Nami",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nami.webp",
         "stuffs": []
       },
       {
         "id": "700h",
-        "name": "우솝",
+        "name": "Usopp",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/usopp.webp",
         "stuffs": []
       },
       {
         "id": "400h",
-        "name": "상디",
+        "name": "Sanji",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sanji.webp",
         "stuffs": []
       },
       {
         "id": "800h",
-        "name": "쵸파",
+        "name": "Chopper",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/chopper.webp",
         "stuffs": []
       },
       {
         "id": "500h",
-        "name": "버기",
+        "name": "Buggy",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/buggy.webp",
         "stuffs": []
       },
       {
         "id": "900h",
-        "name": "해군 총병",
+        "name": "Navy Gunner",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nvgun.webp",
         "stuffs": []
       },
       {
         "id": "600h",
-        "name": "해군 칼병",
+        "name": "Navy Swordman",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nvsd.webp",
         "stuffs": []
       }
@@ -75,7 +75,7 @@
     "안흔함": [
       {
         "id": "O00h",
-        "name": "로빈",
+        "name": "Robin",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/robin.webp",
         "stuffs": [
           {
@@ -90,7 +90,7 @@
       },
       {
         "id": "C00h",
-        "name": "베포",
+        "name": "Bepo",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/bepo.webp",
         "stuffs": [
           {
@@ -105,7 +105,7 @@
       },
       {
         "id": "D00h",
-        "name": "브룩",
+        "name": "Brook",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/brook.webp",
         "stuffs": [
           {
@@ -120,7 +120,7 @@
       },
       {
         "id": "M00h",
-        "name": "블루노",
+        "name": "Blueno",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/blueno.webp",
         "stuffs": [
           {
@@ -131,7 +131,7 @@
       },
       {
         "id": "K00h",
-        "name": "에이스",
+        "name": "Ace",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ace.webp",
         "stuffs": [
           {
@@ -146,7 +146,7 @@
       },
       {
         "id": "I00h",
-        "name": "이나즈마",
+        "name": "Inazuma",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/inazuma.webp",
         "stuffs": [
           {
@@ -161,7 +161,7 @@
       },
       {
         "id": "N00h",
-        "name": "저격왕 우솝",
+        "name": "Usopp2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/usopp2.webp",
         "stuffs": [
           {
@@ -172,7 +172,7 @@
       },
       {
         "id": "G00h",
-        "name": "쵸파 럼블볼",
+        "name": "Chopper",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/chopper.webp",
         "stuffs": [
           {
@@ -183,7 +183,7 @@
       },
       {
         "id": "E00h",
-        "name": "타시기",
+        "name": "Tashigi",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/tashigi.webp",
         "stuffs": [
           {
@@ -198,7 +198,7 @@
       },
       {
         "id": "J00h",
-        "name": "페로나",
+        "name": "Perona",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/perona.webp",
         "stuffs": [
           {
@@ -213,7 +213,7 @@
       },
       {
         "id": "L00h",
-        "name": "프랑키",
+        "name": "Franky",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/frankyuc.webp",
         "stuffs": [
           {
@@ -228,7 +228,7 @@
       },
       {
         "id": "F00h",
-        "name": "하찌",
+        "name": "Hatchan",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hatch.webp",
         "stuffs": [
           {
@@ -243,7 +243,7 @@
       },
       {
         "id": "A00h",
-        "name": "후쿠로",
+        "name": "Fukuro",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/fukuro.webp",
         "stuffs": [
           {
@@ -256,7 +256,7 @@
     "특별함": [
       {
         "id": "K10h",
-        "name": "X-드레이크",
+        "name": "X-Drake",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/drakeuq.webp",
         "stuffs": [
           {
@@ -275,7 +275,7 @@
       },
       {
         "id": "Q00h",
-        "name": "갓 에넬",
+        "name": "Enel",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/enel.webp",
         "stuffs": [
           {
@@ -294,7 +294,7 @@
       },
       {
         "id": "B00h",
-        "name": "겟코모리아",
+        "name": "Moria",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/moria.webp",
         "stuffs": [
           {
@@ -309,7 +309,7 @@
       },
       {
         "id": "P00h",
-        "name": "나미 크리마 텍트",
+        "name": "Nami2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nami.webp",
         "abilities": {
           "발동이동속도 감소": 11
@@ -324,7 +324,7 @@
       },
       {
         "id": "R00h",
-        "name": "로브 루치",
+        "name": "Lucci",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/lucciuq.webp",
         "stuffs": [
           {
@@ -343,7 +343,7 @@
       },
       {
         "id": "S00h",
-        "name": "로빈 오하라",
+        "name": "Robin2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/robin.webp",
         "stuffs": [
           {
@@ -358,7 +358,7 @@
       },
       {
         "id": "H10h",
-        "name": "트라팔가 로우",
+        "name": "Law",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/law.webp",
         "stuffs": [
           {
@@ -377,7 +377,7 @@
       },
       {
         "id": "U00h",
-        "name": "루피 기어세컨드",
+        "name": "Luffy2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/luffyuq.webp",
         "stuffs": [
           {
@@ -388,7 +388,7 @@
       },
       {
         "id": "T00h",
-        "name": "마르코",
+        "name": "Marco",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/marco.webp",
         "stuffs": [
           {
@@ -407,7 +407,7 @@
       },
       {
         "id": "610h",
-        "name": "바질 호킨스",
+        "name": "Hawkin",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hawkinsuq.webp",
         "abilities": {
           "방어력 감소": 3
@@ -430,7 +430,7 @@
       },
       {
         "id": "510h",
-        "name": "버기 마기탄",
+        "name": "Buggy2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/buggy.webp",
         "stuffs": [
           {
@@ -441,7 +441,7 @@
       },
       {
         "id": "410h",
-        "name": "봉쿠레",
+        "name": "Bonkurei",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/bonkurei.webp",
         "stuffs": [
           {
@@ -460,7 +460,7 @@
       },
       {
         "id": "310h",
-        "name": "상디 검은다리",
+        "name": "Sanji2",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sanji.webp",
         "stuffs": [
           {
@@ -471,10 +471,10 @@
       },
       {
         "id": "F10h",
-        "name": "스모커",
+        "name": "Smoker",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/smoker.webp",
         "abilities": {
-          "이동속도 감소": 5
+          "Reduced movement speed": 5
         },
         "desc": "이동속도 감소(이감): 5",
         "stuffs": [
